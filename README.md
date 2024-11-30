@@ -3,4 +3,4 @@ Skripsi
 ## Skematik
 ![Logo](https://github.com/Farhanudin1/SISTEM-GREEN-HOUSE-PADA-TANAMAN-CABAI-DENGAN-MENGGUNAKAN-METODE-SMART-FARMING-BERBASIS-ARDUINO-CLOUD/blob/dc891b845bcbcae599bc88181436a9ac28fafd2c/Skematik.jpg)
 ## Monitoring Arduino Cloud
-
+![Logo](https://github.com/Farhanudin1/SISTEM-GREEN-HOUSE-PADA-TANAMAN-CABAI-DENGAN-MENGGUNAKAN-METODE-SMART-FARMING-BERBASIS-ARDUINO-CLOUD/blob/e3be365f63dddf8fdbab4207e504398166977a6b/Monitoring%20Arduino%20Cloud.png)
